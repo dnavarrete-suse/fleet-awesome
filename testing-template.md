@@ -2,7 +2,7 @@
 
 ### Content
 
-- Description :wite_check_mark: :heavy_exclamation_mark:
+- Description :white_check_mark: :heavy_exclamation_mark:
 - Requirements :white_check_mark: :heavy_exclamation_mark:
 
 Observations:
@@ -11,7 +11,7 @@ Observations:
 
 ### Deployment
 
-:wite_check_mark: :heavy_exclamation_mark:
+:white_check_mark: :heavy_exclamation_mark:
 
 Observations:
 
@@ -19,7 +19,7 @@ Observations:
 
 ### Readiness
 
-:wite_check_mark: :heavy_exclamation_mark:
+:white_check_mark: :heavy_exclamation_mark:
 
 Observations:
 
@@ -27,7 +27,7 @@ Observations:
 
 ### Flexibility
 
-:wite_check_mark: :heavy_exclamation_mark:
+:white_check_mark: :heavy_exclamation_mark:
 
 Observations:
 
@@ -35,7 +35,7 @@ Observations:
 
 ### Errors
 
-:wite_check_mark: :heavy_exclamation_mark:
+:white_check_mark: :heavy_exclamation_mark:
 
 Observations:
 
