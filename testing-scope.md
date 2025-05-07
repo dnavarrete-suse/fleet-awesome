@@ -22,5 +22,4 @@
 		- Requirements
 	- Deployment -> Is the deployment successful? (OK/KO)
 	- Readiness -> Is the recipe functional out of the box? (OK/KO)
-	- Flexibility -> Is it possible to do basic changes? (OK/KO) 
 	- Errors -> Are there any errors present on the involved components? (OK/KO)
