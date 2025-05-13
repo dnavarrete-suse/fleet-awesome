@@ -5,6 +5,6 @@ kustomize:
   dir: ""
 
 helm:
-  takeOwnership: true
+  takeOwnership: false
 
 ###
