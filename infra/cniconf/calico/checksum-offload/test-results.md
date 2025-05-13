@@ -1,7 +1,7 @@
 # Testing
 ## Content
 
-- Description :white_check_mark: :heavy_exclamation_mark:
+- Description :white_check_mark: 
 - Requirements :heavy_exclamation_mark:
 
 Observations: Requirements missing
